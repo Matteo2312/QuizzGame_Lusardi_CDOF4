@@ -38,7 +38,9 @@ def main():
         else:
             print("Wrong answer.")
 
-    print(f"Your final score is: {score}/{len(questions)}")
+    final_score = (score / len(questions)) * 100
+
+    print(f"Your final score is: {int(final_score)}%")
 
 if __name__ == "__main__":
     main()
