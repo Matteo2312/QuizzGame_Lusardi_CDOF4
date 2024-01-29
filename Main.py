@@ -17,7 +17,17 @@ def main():
             "choices": ["3", "4", "5", "6"],
             "correct_answer": "2"
         },
-        
+        {
+            "question": "What is the square root of 9?",
+            "choices": ["3", "4", "2", "6"],
+            "correct_answer": "2"
+        },
+        {
+            "question": "How many moons does Jupiter",
+            "choices": ["95", "38", "86", "52"],
+            "correct_answer": "86"
+        },
+
     ]
 
     score = 0
