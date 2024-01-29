@@ -1,6 +1,6 @@
 # Quiz Game
 
-This project is a simple, interactive quiz game run in the console. Users can answer a series of multiple-choice questions and receive their score at the end. This game is perfect for anyone looking to test their general knowledge in a fun and engaging way.
+This project is a simple, interactive quiz game run in the console. Users can answer 5  multiple-choice questions and receive their score at the end. This game is perfect for anyone looking to test their general knowledge in a fun and engaging way.
 
 ## Getting Started
 
