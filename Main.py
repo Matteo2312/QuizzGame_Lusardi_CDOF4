@@ -20,13 +20,20 @@ def main():
         {
             "question": "What is the square root of 9?",
             "choices": ["3", "4", "2", "6"],
-            "correct_answer": "2"
+            "correct_answer": "1"
         },
         {
             "question": "How many moons does Jupiter",
             "choices": ["95", "38", "86", "52"],
-            "correct_answer": "86"
+            "correct_answer": "1"
         },
+        {
+            "question": "Who is the most beautiful girl on earth",
+            "choices": ["Selena Gomez", "Kylie Jenner", "Anne-Solène Izard", "Louis Cockenpot"],
+            "correct_answer": "3"
+        },
+
+
 
     ]
 
